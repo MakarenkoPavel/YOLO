@@ -1,0 +1,10 @@
+download https://drive.google.com/open?id=1GAr3kOYRFaCAdbsyoAJj67oM0JJs51FM weights file and put it to yolo3-coco folder
+
+https://drive.google.com/open?id=1o8mUGSRu3O88w7jdAvFtXcuGn_3UE4jm - sample 
+https://drive.google.com/open?id=15Y0EIZcTGq2h-gTY1rx9iG0MVT9VmdK7 - sample output file
+
+1. IMAGE -  python3 yolo.py --image-path='/path/to/image/'
+
+2. VIDEO -  python3 yolo.py --video-path='/path/to/video/'
+
+3. WEBCAM - python3 yolo.py
